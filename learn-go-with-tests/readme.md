@@ -22,6 +22,7 @@ Base: https://github.com/quii/learn-go-with-tests
 - Intro to property based tests - Practice some TDD with the Roman Numerals kata and get a brief intro to property based tests
 - Maths - Use the math package to draw an SVG clock
 
-# Duvidas
+# Duvidas / Leituras futuras
 
 - Com ou sem o ```t.Helper()``` tive a mesma saida nos testes
+- Ver Mais sobre 'Examples'
