@@ -1,6 +1,6 @@
 # Estudo GOLANG
 
-- Udemy
+- [Udemy - Go (Golang): Explorando a Linguagem do Google](curso-go) 
 - [learn-go-with-tests -> Aprende Go e TDD](learn-go-with-tests)
 
 # Links Interessantes
