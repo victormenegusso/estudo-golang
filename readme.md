@@ -5,4 +5,8 @@
 
 # Links Interessantes
 
+- [Effective Go](https://golang.org/doc/effective_go.html)
+
+- [GO DOC - Benchmarks](https://golang.org/pkg/testing/#hdr-Benchmarks)
+
 - [Five suggestions for setting up a Go project](https://dave.cheney.net/2014/12/01/five-suggestions-for-setting-up-a-go-project)
