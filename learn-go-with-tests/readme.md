@@ -5,9 +5,8 @@ Base: https://github.com/quii/learn-go-with-tests
 - Install Go - Set up environment for productivity.
 - [Hello, world - Declaring variables, constants, if/else statements, switch, write your first go program and write your first test. Sub-test syntax and closures.](hello)
 - [Integers - Further Explore function declaration syntax and learn new ways to improve the documentation of your code.](integers)
+- [Iteration - Learn about for and benchmarking.](iteration)
 
-
-- Iteration - Learn about for and benchmarking.
 - Arrays and slices - Learn about arrays, slices, len, varargs, range and test coverage.
 - Structs, methods & interfaces - Learn about struct, methods, interface and table driven tests.
 - Pointers & errors - Learn about pointers and errors.
