@@ -25,4 +25,5 @@ Base: https://github.com/quii/learn-go-with-tests
 # Duvidas / Leituras futuras
 
 - Com ou sem o ```t.Helper()``` tive a mesma saida nos testes
-- Ver Mais sobre 'Examples'
+- Ver Mais sobre 'Examples' nos testes
+- Ver Mais sobre 'Benchmark' nos testes
