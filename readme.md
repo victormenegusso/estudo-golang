@@ -9,4 +9,6 @@
 
 - [GO DOC - Benchmarks](https://golang.org/pkg/testing/#hdr-Benchmarks)
 
+- [TableDrivenTests](https://github.com/golang/go/wiki/TableDrivenTests) --> me parece semehante ao Junit com CSV
+
 - [Five suggestions for setting up a Go project](https://dave.cheney.net/2014/12/01/five-suggestions-for-setting-up-a-go-project)
