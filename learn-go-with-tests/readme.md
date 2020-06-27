@@ -8,8 +8,8 @@ Base: https://github.com/quii/learn-go-with-tests
 - [Iteration - Learn about for and benchmarking.](iteration)
 - [Arrays and slices - Learn about arrays, slices, len, varargs, range and test coverage.](arrays-and-slices)
 - [Structs, methods & interfaces - Learn about struct, methods, interface and table driven tests.](structs-methods-and-interfaces)
+- [Pointers & errors - Learn about pointers and errors.](pointers-and-errors)
 
-- Pointers & errors - Learn about pointers and errors.
 - Maps - Learn about storing values in the map data structure.
 - Dependency Injection - Learn about dependency injection, how it relates to using interfaces and a primer on io.
 - Mocking - Take some existing untested code and use DI with mocking to test it.
@@ -25,6 +25,19 @@ Base: https://github.com/quii/learn-go-with-tests
 
 - GO já vem com um  coverage tool: `go test -cover`
 - In Go interface resolution is implicit. If the type you pass in matches what the interface is asking for, it will compile.
+- The var keyword allows us to define values global to the package.
+- go get -u github.com/kisielk/errcheck
+
+
+# Pontos Eita
+- In Go if a symbol (so variables, types, functions et al) starts with a lowercase symbol then it is private outside the package it's defined in.
+
+- GO não permite sobrecarga de metodos, exemplo:  `func Area(circle Circle) float64 { ... }
+func Area(rectangle Rectangle) float64 { ... }`
+
+- when you call a function or a method the arguments are copied
+  - struct pointers and they are automatically dereferenced.
+
 
 # Duvidas / Leituras futuras
 
